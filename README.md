@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gelosss
+- 👋 Hi, I’m @gelosss
 - 👀 I’m interested in  JS,  Python
 - 🌱 I’m currently learning  JavaScript
 - 💞️ I’m looking to collaborate on ...
